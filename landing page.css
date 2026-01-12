@@ -35,7 +35,7 @@
 input, 
 select{
     border-radius: 5px;
-    height: 46px;
+    height: 45px;
     text-align: center;
     font-size: 1.23rem;
 }
@@ -56,4 +56,5 @@ submit:hover {
     width: 115px;
     float: right;
     margin: 79px 384px 32px 32px;
+
 }
